@@ -2,21 +2,22 @@
 layout: post
 title: Download
 categories: docs docs-get-started
-permalink: download.html
+permalink: download_ja.html
 ---
 
-**Note** Binary packages are made available on a volunteer basis. There is no need to
-ask when a binary package for a given platform will be ready. The packagers are fully aware of every source release and they give their best effort to make the binaries available.
+**ノート** バイナリパッケージは、自由に利用することが可能です。バイナリパッケージのプラットフォームを準備するために申請を行う必要はありません。パッケージの開発者たちは全てのリリースされているソースに目を向け、バイナリパッケージが利用可能になるために最善の努力を行っています。
 
-Download service is kindly provided by [Bitbucket](https://bitbucket.org/ariya/phantomjs/downloads). Previous releases download was provided by [Google Code Project Hosting](http://code.google.com/p/phantomjs/downloads/).
+**ノート** 
+
+ダウンロードサービスは、[Bitbucket](https://bitbucket.org/ariya/phantomjs/downloads)のから提供されています。前回リリースバージョンは、[Google Code Project Hosting](http://code.google.com/p/phantomjs/downloads/)からダウンロードをすることが可能です。
 
 ## Windows
 
-Download [phantomjs-1.9.7-windows.zip](https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.7-windows.zip) (6.7 MB) and extract (unzip) the content.
+[phantomjs-1.9.7-windows.zip](https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.7-windows.zip) (6.7 MB) からダウンロードを行い、解凍してください。
 
-The executable `phantomjs.exe` is ready to use.
+解凍された `phantomjs.exe` から使用することができます。
 
-**Note**: For this static build, the binary is self-contained with no external dependency. It will run on a fresh install of Windows XP or later versions. There is no requirement to install Qt, WebKit, or any other libraries.
+**ノート**: For this static build, the binary is self-contained with no external dependency. It will run on a fresh install of Windows XP or later versions. There is no requirement to install Qt, WebKit, or any other libraries.
 
 ## Mac OS X
 
